@@ -1,0 +1,43 @@
+//donovan custom
+
+	html{font-family:sans serif; font-size: 14px;
+	}
+	
+	body{margin:0;
+	background-color:#3299BB;
+	color:#000000;
+	}
+	
+	a.slink {
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:16px;
+	background-color:#424242;
+	color:#fff;
+	}
+	
+	a.slink:hover {
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:16px;
+	background-color:#E9E9E9;
+	color:#fff;
+	}
+	
+	a.menu {
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:16px;
+	background-color:#BCBCBC;
+	color:#fff;
+	broder-style: solid;
+	border-color: #3299BB;
+	padding: 10px 10px 10px 10px;
+	border-width: 10px 10px 10px 10px;
+	
+	}
+	
+	a.menu.hover {
+	font-family:sans-serif; 
+	 color:#E9E9E9;
+	}
